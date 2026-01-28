@@ -1,0 +1,36 @@
+
+
+
+
+#about{
+    height: 125vh;
+    margin-top: 0;
+    background: linear-gradient(to right,  #afb3b3,  #1ca314);
+   
+}
+#home {
+    height: 100vh;
+    background: linear-gradient(to right, #afb3b3, #21dc43);
+    margin-bottom: 0px; 
+}
+
+#skills{
+    height: 60vh;
+    margin-top: 0px;
+    background: linear-gradient(to right, #afb3b3,  #109a39);
+    
+
+
+}
+#projects{
+    height: 100vh;
+    margin-top: 0px;
+    background: linear-gradient(to right,#afb3b3, #0f7e1f);
+}
+#contact{
+    height: 50vh;
+    margin-top: 0px;
+    background: linear-gradient(to right, #afb3b3, #036919 );
+}
+
+
